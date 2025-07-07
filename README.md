@@ -1,4 +1,4 @@
-📘 README — SAE S104 : Création d'une base de données
+📘 SAE S104 : Création d'une base de données
 
 
 🎯 Objectif
